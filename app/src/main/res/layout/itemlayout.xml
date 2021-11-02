@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/llnote"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_margin="5dp"
+    android:background="@color/primaryDark">
+
+    <TextView
+        android:id="@+id/tv1"
+        android:layout_width="293dp"
+        android:layout_height="wrap_content"
+        android:layout_margin="5dp"
+        android:background="@color/primaryDark"
+        android:padding="5dp"
+        android:textColor="@color/black"
+
+        />
+
+    <ImageView
+        android:id="@+id/imE"
+        android:layout_width="120dp"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="5dp"
+        android:layout_weight="1"
+        android:background="@color/colorPrimary"
+        android:padding="3dp"
+        app:srcCompat="@android:drawable/ic_menu_edit" />
+
+    <ImageView
+        android:id="@+id/imD"
+        android:layout_width="121dp"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="5dp"
+        android:layout_weight="1"
+        android:background="@color/colorPrimary"
+        android:padding="3dp"
+        app:srcCompat="@android:drawable/ic_menu_delete" />
+
+</LinearLayout>

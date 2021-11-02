@@ -1,0 +1,97 @@
+{
+  "project_info": {
+    "project_number": "610773493516",
+    "project_id": "noteapp-firebase-686be",
+    "storage_bucket": "noteapp-firebase-686be.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:610773493516:android:eb014e435bc6dda1798b29",
+        "android_client_info": {
+          "package_name": "com.example.noteapp_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "610773493516-lh5jd81u5rekoo58v99rsjcr4chuvgko.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAn9VR4F39uV_3kcdBrjqRtYGuXc-1DYCA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "610773493516-lh5jd81u5rekoo58v99rsjcr4chuvgko.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:610773493516:android:1f8cc14caf024c42798b29",
+        "android_client_info": {
+          "package_name": "com.example.noteapp_firebase1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "610773493516-lh5jd81u5rekoo58v99rsjcr4chuvgko.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAn9VR4F39uV_3kcdBrjqRtYGuXc-1DYCA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "610773493516-lh5jd81u5rekoo58v99rsjcr4chuvgko.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:610773493516:android:18bccdaf00d2ac53798b29",
+        "android_client_info": {
+          "package_name": "com.example.roomsqlit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "610773493516-lh5jd81u5rekoo58v99rsjcr4chuvgko.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAn9VR4F39uV_3kcdBrjqRtYGuXc-1DYCA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "610773493516-lh5jd81u5rekoo58v99rsjcr4chuvgko.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
